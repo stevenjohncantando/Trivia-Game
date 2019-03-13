@@ -1,0 +1,30 @@
+body {
+    background-color: #1a000f;
+    background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
+}
+
+.container { 
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    background-color:  darkgray;
+}
+
+.header {
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Poiret One', cursive;
+}
+
+#questions {
+    font-size: 20px;
+    font-family: 'Gruppo', cursive;
+    background-color: black;
+    color: silver;
+    letter-spacing: 1px; 
+}
+
+#reset, #done {
+    font-weight: bold;
+}
